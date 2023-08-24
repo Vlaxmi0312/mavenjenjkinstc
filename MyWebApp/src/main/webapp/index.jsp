@@ -1,12 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-          <title>this is my Java Web App</title>
-          <meta content="text/html; charset=utf-8" />
-    </head>
+<html>
 <body>
-<h2> 
-	<h2> i am vijaylaxmi devops engineer!!!!!!!!</h2>
-  
+<h2>Congrats INDIA FOR CHANDRAYAN33!</h2>
 </body>
 </html>
